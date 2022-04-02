@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anish
 - 👀 I’m interested in ... Python Programming and Machine Learning
 - 🌱 I’m currently learning ... Natural Language Processing + Machine Learning
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ...  Anything related to Python, NLP or Machine Learning
 - 📫 How to reach me ... Email me at anishsavla2@gmail.com
 
 <!---

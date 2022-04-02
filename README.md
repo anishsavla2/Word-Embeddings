@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anishsavla2
+- 👋 Hi, I’m Anish
 - 👀 I’m interested in ... Python Programming and Machine Learning
 - 🌱 I’m currently learning ... Natural Language Processing + Machine Learning
 - 💞️ I’m looking to collaborate on ... 
